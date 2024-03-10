@@ -1,0 +1,28 @@
+{
+  "name": "book-p2",
+  "version": "1.0.0",
+  "description": "Library system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js ",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokul6466/BOOK-P2.git"
+  },
+  "author": "Gokul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokul6466/BOOK-P2/issues"
+  },
+  "homepage": "https://github.com/gokul6466/BOOK-P2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  }
+}
