@@ -1,5 +1,4 @@
 const {UserModal,BookModal}=require("../modals/index");
-const issuedBook = require("../dtos/Book-dto");
 const IssuedBook = require("../dtos/Book-dto");
 
 //const getallbooks = ( ) =>{};
